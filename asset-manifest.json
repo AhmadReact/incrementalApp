@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/incrementalApp/static/css/main.a824004d.css",
+    "main.js": "/incrementalApp/static/js/main.ad9f4edf.js",
+    "index.html": "/incrementalApp/index.html",
+    "main.a824004d.css.map": "/incrementalApp/static/css/main.a824004d.css.map",
+    "main.ad9f4edf.js.map": "/incrementalApp/static/js/main.ad9f4edf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a824004d.css",
+    "static/js/main.ad9f4edf.js"
+  ]
+}
